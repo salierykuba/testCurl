@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_road_rage.jpg.flat",
+        "source": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\bundles\\debug\\res\\drawable\\road_rage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_obama.jpg.flat",
+        "source": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\bundles\\debug\\res\\drawable\\obama.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_taipei_101.jpg.flat",
+        "source": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\bundles\\debug\\res\\drawable\\taipei_101.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\bundles\\debug\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_world.gif.flat",
+        "source": "C:\\Users\\xxx\\AndroidStudioProjects\\CurlView\\pageCurlExample\\build\\intermediates\\bundles\\debug\\res\\drawable\\world.gif"
+    }
+]

@@ -1,0 +1,9 @@
+fi.harism.curl
+int drawable icon 0x7f090001
+int drawable obama 0x7f090002
+int drawable road_rage 0x7f090003
+int drawable taipei_101 0x7f090004
+int drawable world 0x7f090005
+int id curl 0x7f0c0001
+int layout main 0x7f0f0001
+int string app_name 0x7f150001
